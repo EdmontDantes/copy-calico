@@ -1,6 +1,6 @@
 .navigation {
     display: inline;
-    font-size: 24px;
+    font-size: 16px;
 }
 .left-nav {
     float: left;
@@ -14,11 +14,15 @@
 .center-list {
     list-style: none;
 }
-.logo-center img{
+.logo-center {
     display: block;
     margin-right: auto;
-    margin-left: 40%;
+    margin-left: auto;
     padding-top: 120px;
+}
+.input-form {
+    border-radius: 24px;
+    font-size: 32px;
 }
 button.buttons {
     border: none;
@@ -26,7 +30,8 @@ button.buttons {
     background-color: lightgray;
     display: inline-block;
     text-align: center;
-    margin: 5px 5px 5px 5px;
+    margin: 10px 10px 10px 10px;
+    font-size: 24px;
 }
 .footer {
     background-color: lightgray;
@@ -44,12 +49,12 @@ button.buttons {
 .left-footer-part {
     float: left;
     display: inline;
-    font-size: 24px;
-    padding-left: 5px;
+    font-size: 16px;
+    padding: 10px;
 }
 .right-footer-part {
     float: right;
     display: inline;
-    font-size: 24px;
-    padding-right: 5px;
+    font-size: 16px;
+    padding: 10px;
 }
