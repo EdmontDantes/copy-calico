@@ -1,8 +1,13 @@
 a:link {
     text-decoration: none;
+    color: black;
 }
 a:hover {
     text-decoration: underline;
+    color: black;
+}
+a:visited {
+    color: black;
 }
 .navigation {
     display: inline;
