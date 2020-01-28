@@ -1,0 +1,16 @@
+.navigation {
+    display: inline;
+    font-size: 7px;
+}
+.left-nav {
+    float: left;
+}
+.right-nav {
+    float: right;
+}
+.center-page {
+    position: relative;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
