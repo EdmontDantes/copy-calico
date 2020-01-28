@@ -1,3 +1,9 @@
+a:link {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
 .navigation {
     display: inline;
     font-size: 16px;
@@ -32,6 +38,7 @@ button.buttons {
     text-align: center;
     margin: 10px 10px 10px 10px;
     font-size: 24px;
+    cursor: pointer;
 }
 .footer {
     background-color: lightgray;
