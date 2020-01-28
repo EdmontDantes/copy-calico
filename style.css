@@ -1,6 +1,6 @@
 .navigation {
     display: inline;
-    font-size: 7px;
+    font-size: 16px;
 }
 .left-nav {
     float: left;
@@ -44,12 +44,12 @@ button.buttons {
 .left-footer-part {
     float: left;
     display: inline;
-    font-size: 7px;
+    font-size: 16px;
     padding-left: 5px;
 }
 .right-footer-part {
     float: right;
     display: inline;
-    font-size: 7px;
+    font-size: 16px;
     padding-right: 5px;
 }
