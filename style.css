@@ -9,8 +9,11 @@
     float: right;
 }
 .center-page {
-    position: relative;
-    left: 50%;
-    top: 50%;
-    transform: translate(-50%, -50%);
+    text-align: center;
+}
+.logo-center  img {
+    display: block;
+    margin-right: auto;
+    margin-left: 40%;
+    padding-top: 120px;
 }
